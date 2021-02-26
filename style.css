@@ -1,0 +1,136 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+nav {
+    background-color: #252526;
+    height: 60px;
+    border-bottom: 7px solid #f5e2d6;
+}
+
+nav ul {
+    position: absolute;
+    right: 100px;
+    top: 20px;
+}
+
+nav li {
+    display: inline;
+    padding-right: 25px;
+    font-family: museo-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 13px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+section {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-family: proxima-nova, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 50px;
+    color: #252526;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+h5 {
+    font-family: museo-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    color: #252526;
+}
+
+figcaption {
+    margin-top: 100px;
+}
+
+.tabsImage {
+    width: 350px;
+}
+
+aside {
+    background-color: #252526;
+    color: white;
+    margin-top: 200px;
+    height: 200px;
+}
+
+h3 {
+    font-family: proxima-nova, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+    letter-spacing: 2px;
+}
+
+form {
+    font-family: museo-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 13px;
+    text-align: center;
+    padding: 10px;
+}
+
+form ul {
+    list-style-type: none;
+}
+
+form ul .input1 {
+    margin-left: 1px;
+    margin-bottom: 8px;
+}
+
+form ul .input2 {
+    margin-left: 1px;
+}
+
+#submit {
+    font-family: museo-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 13px;
+    background-color: rgba(255, 255, 255, 0.192);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 8px;
+}
+
+footer {
+    background-color: #3e3e3f;
+    color: white;
+    font-family: museo-sans,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 11px;
+    height: 60px;
+    text-align: center;
+}
+
+p {
+    position: relative;
+    top: 25px;
+}
+
