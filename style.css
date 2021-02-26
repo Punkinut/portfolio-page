@@ -12,9 +12,10 @@ nav {
 }
 
 nav ul {
-    position: absolute;
-    right: 100px;
-    top: 20px;
+    margin: 0 auto;
+    text-align: center;
+    height: 50px;
+    padding-top: 15px;
 }
 
 nav li {
