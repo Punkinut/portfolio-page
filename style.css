@@ -12,15 +12,17 @@ nav {
 }
 
 nav ul {
-    margin: 0 auto;
+    display: block;
+    width: 95%;
     text-align: center;
-    height: 50px;
+    margin: auto;
+    height: 100%;
     padding-top: 15px;
 }
 
 nav li {
     display: inline;
-    padding-right: 25px;
+    padding: 30px;
     font-family: museo-sans,sans-serif;
     font-weight: 700;
     font-style: normal;
